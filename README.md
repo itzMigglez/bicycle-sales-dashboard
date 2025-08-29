@@ -36,7 +36,7 @@ The dataset contains the following key columns:
 
 ### 📸 Dashboard Preview
 
-![Bicycle Buyers Dashboard](dashboard.png)
+![Dashboard Screenshot](bike_dashboard.png)
 
 ### 🔮 Future Enhancements
 
